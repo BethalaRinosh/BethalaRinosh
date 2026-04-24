@@ -28,13 +28,10 @@
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=◈++About" alt="About"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
-
-<br/>
+## 🚀 **About**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: glow 2s ease-in-out infinite alternate;">
+  About Me
+</span>
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
@@ -60,13 +57,10 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=⬡++Tech+Stack" alt="Tech Stack"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
-
-<br/>
+## 🛠️ **Tech Stack**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: bounce 2s infinite;">
+  Tech Stack
+</span>
 
 <div align="center">
 
@@ -104,17 +98,12 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=360&height=50&lines=◎++GitHub+Stats" alt="GitHub Stats"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
+## 📊 **GitHub Stats**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: pulse 1.5s infinite;">
+  GitHub Stats
+</span>
 
-<br/>
-
-<div align="center">
-<table border="1" bordercolor="#58A6FF" cellpadding="20" cellspacing="0" style="border-radius:16px;border:1.5px solid #58A6FF;background:#0d1117;">
-<tr><td align="center">
+<div align="center" style="background: linear-gradient(145deg, #0d11170f, #58A6FF10); border: 1px solid #58A6FF20; border-radius: 20px; padding: 25px; margin: 20px 0; backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(88, 166, 255, 0.1);">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bethalarinosh&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 &nbsp;&nbsp;
@@ -124,8 +113,6 @@ philosophy   : Solve the right problem before solving it well.
 
 <img width="68%" src="https://streak-stats.demolab.com/?user=bethalarinosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
-</td></tr>
-</table>
 </div>
 
 <br/>
@@ -134,13 +121,10 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=360&height=50&lines=⌬++Contributions" alt="Contributions"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
-
-<br/>
+## 🌐 **Contributions**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: float 3s ease-in-out infinite;">
+  Contributions
+</span>
 
 <div align="center">
 
@@ -158,13 +142,10 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=⊞++What+I'm+Working+On" alt="What I'm Working On"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
-
-<br/>
+## 🚧 **What I'm Working On**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: wiggle 2s infinite;">
+  Current Projects
+</span>
 
 | Area | Description |
 |---|---|
@@ -179,21 +160,12 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=420&height=50&lines=≡++Principles+I+Work+By" alt="Principles I Work By"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
+## 💡 **Principles I Work By**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: rotate 4s linear infinite;">
+  Design Principles
+</span>
 
-<br/>
 
-```
-Write for the next developer, not the compiler.
-Slow is smooth. Smooth is fast.
-Boring technology for infrastructure. Interesting ideas on top.
-Documentation is a first-class deliverable.
-A well-named variable is worth three comments.
-```
 
 <br/>
 
@@ -201,13 +173,10 @@ A well-named variable is worth three comments.
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=360&height=50&lines=⟁++Let's+Connect" alt="Let's Connect"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</div>
-
-<br/>
+## 🤝 **Let's Connect**
+<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: heartbeat 1.8s infinite;">
+  Get In Touch
+</span>
 
 <div align="center">
 
@@ -232,3 +201,49 @@ A well-named variable is worth three comments.
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:131c2b,70:0f1923,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 5px #58A6FF, 0 0 10px #58A6FF, 0 0 15px #58A6FF; }
+  to { text-shadow: 0 0 10px #58A6FF, 0 0 20px #58A6FF, 0 0 30px #58A6FF; }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes wiggle {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(2deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-2deg); }
+  100% { transform: rotate(0deg); }
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes heartbeat {
+  0% { transform: scale(1); }
+  14% { transform: scale(1.1); }
+  28% { transform: scale(1); }
+  42% { transform: scale(1.1); }
+  70% { transform: scale(1); }
+}
+</style>
