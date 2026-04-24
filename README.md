@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f1923,70:131c2b,100:0d1117&height=200&section=header&text=BETHALA&text=RINOSH&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Full-Stack+Developer+·+Open+Source+·+Systems+Thinker&descAlignY=75&descSize=16&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f1923,70:131c2b,100:0d1117&height=200&section=header&text=BETHALA+RINOSH&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Full-Stack+Developer+·+Open+Source+·+Systems+Thinker&descAlignY=75&descSize=16&descColor=8b949e"/>
 
 </div>
 
@@ -38,13 +38,13 @@ My work tends to sit at the intersection of clean architecture and product think
 
 When I'm not shipping, I'm exploring compilers, contributing to open source, and slowly convincing myself that Neovim was worth the learning curve.
 
-```yaml
+&#96;&#96;&#96;yaml
 location     : Building things in the void
 role         : Full-Stack Developer
 focus        : Performance · Architecture · Developer Experience
 currently    : Learning everything. As always.
 philosophy   : Solve the right problem before solving it well.
-```
+&#96;&#96;&#96;
 
 <br clear="right"/>
 
@@ -117,9 +117,9 @@ philosophy   : Solve the right problem before solving it well.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bethalarinosh/bethalarinosh/output/github-contribution-grid-mario-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bethalarinosh/bethalarinosh/output/github-contribution-grid-mario.svg"/>
-  <img alt="Contribution animation" src="https://raw.githubusercontent.com/bethalarinosh/bethalarinosh/output/github-contribution-grid-mario-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bethalarinosh/bethalarinosh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bethalarinosh/bethalarinosh/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution animation" src="https://raw.githubusercontent.com/bethalarinosh/bethalarinosh/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -147,13 +147,13 @@ philosophy   : Solve the right problem before solving it well.
 
 ## Principles I Work By
 
-```
+&#96;&#96;&#96;
 Write for the next developer, not the compiler.
 Slow is smooth. Smooth is fast.
 Boring technology for infrastructure. Interesting ideas on top.
 Documentation is a first-class deliverable.
 A well-named variable is worth three comments.
-```
+&#96;&#96;&#96;
 
 <br/>
 
