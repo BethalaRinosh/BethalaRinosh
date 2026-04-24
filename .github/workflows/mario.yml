@@ -1,4 +1,4 @@
-name: mario
+name: contribution-animation
 
 on:
   schedule:
@@ -18,15 +18,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Mario contribution animation
-        uses: MikeCodeur/super-mario-readme@main
+      - uses: Platane/snk@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          OUTPUT_FOLDER: dist
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=E52521&color_dots=#0d1117,#1a3a5c,#1e5799,#58A6FF,#FFD700
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=E52521&color_dots=#0d1117,#1a2744,#1e3a8a,#3b82f6,#facc15
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
