@@ -2,8 +2,8 @@ name: snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs twice a day
-  workflow_dispatch:           # lets you trigger manually
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,12 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     permissions:
       contents: write
 
     steps:
-      # ✅ REQUIRED — was missing from your original, causes the snake to fail
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
