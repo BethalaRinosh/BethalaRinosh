@@ -28,7 +28,13 @@
 
 <br/>
 
-## About
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=◈++About" alt="About"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
+
+<br/>
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
@@ -38,13 +44,13 @@ My work tends to sit at the intersection of clean architecture and product think
 
 When I'm not shipping, I'm exploring compilers, contributing to open source, and slowly convincing myself that Neovim was worth the learning curve.
 
-&#96;&#96;&#96;yaml
+```yaml
 location     : Building things in the void
 role         : Full-Stack Developer
 focus        : Performance · Architecture · Developer Experience
 currently    : Learning everything. As always.
 philosophy   : Solve the right problem before solving it well.
-&#96;&#96;&#96;
+```
 
 <br clear="right"/>
 
@@ -54,7 +60,13 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=300&height=50&lines=⬡++Tech+Stack" alt="Tech Stack"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -92,9 +104,17 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## GitHub Stats
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=360&height=50&lines=◎++GitHub+Stats" alt="GitHub Stats"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
+
+<br/>
 
 <div align="center">
+<table border="1" bordercolor="#58A6FF" cellpadding="20" cellspacing="0" style="border-radius:16px;border:1.5px solid #58A6FF;background:#0d1117;">
+<tr><td align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bethalarinosh&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 &nbsp;&nbsp;
@@ -104,6 +124,8 @@ philosophy   : Solve the right problem before solving it well.
 
 <img width="68%" src="https://streak-stats.demolab.com/?user=bethalarinosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
+</td></tr>
+</table>
 </div>
 
 <br/>
@@ -112,7 +134,13 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## Contributions
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=360&height=50&lines=⌬++Contributions" alt="Contributions"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -130,7 +158,13 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## What I'm Working On
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=⊞++What+I'm+Working+On" alt="What I'm Working On"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
+
+<br/>
 
 | Area | Description |
 |---|---|
@@ -145,15 +179,21 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## Principles I Work By
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=420&height=50&lines=≡++Principles+I+Work+By" alt="Principles I Work By"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
 
-&#96;&#96;&#96;
+<br/>
+
+```
 Write for the next developer, not the compiler.
 Slow is smooth. Smooth is fast.
 Boring technology for infrastructure. Interesting ideas on top.
 Documentation is a first-class deliverable.
 A well-named variable is worth three comments.
-&#96;&#96;&#96;
+```
 
 <br/>
 
@@ -161,7 +201,13 @@ A well-named variable is worth three comments.
 
 <br/>
 
-## Let's Connect
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=360&height=50&lines=⟁++Let's+Connect" alt="Let's Connect"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=1f3a5f&center=true&vCenter=true&repeat=false&width=400&height=16&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
+</div>
+
+<br/>
 
 <div align="center">
 
