@@ -1,0 +1,10 @@
+{
+  "name": "github-profile-game",
+  "version": "1.0.0",
+  "description": "Rinosh's Game-like GitHub Profile",
+  "scripts": {
+    "generate": "node generate-contributions.js"
+  },
+  "author": "Bethala Rinosh",
+  "license": "MIT"
+}
