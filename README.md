@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f1923,70:131c2b,100:0d1117&height=200&section=header&text=BETHALA+RINOSH&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Full-Stack+Developer+·+Open+Source+·+Systems+Thinker&descAlignY=75&descSize=16&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f1923,70:131c2b,100:0d1117&height=240&section=header&text=BETHALA%20RINOSH&fontSize=66&fontColor=58A6FF&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20%C2%B7%20Systems%20Thinker&descAlignY=74&descSize=18&descColor=8b949e"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Building+systems+that+scale+and+interfaces+that+matter.;JavaScript+%7C+TypeScript+%7C+Python+%7C+Rust+%7C+Go;From+frontend+pixel+to+backend+byte.;Open+to+collabs+%E2%80%94+reach+out." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Building+systems+that+scale+and+interfaces+that+matter.;JavaScript+%7C+TypeScript+%7C+Python+%7C+Rust+%7C+Go;From+frontend+pixel+to+backend+byte.;Open+to+collabs+%E2%80%94+reach+out." alt="Typing animation" />
 
 </div>
 
@@ -28,10 +28,11 @@
 
 <br/>
 
-## 🚀 **About**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: glow 2s ease-in-out infinite alternate;">
-  About Me
-</span>
+<div align="center">
+  <img width="560" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:0d1117&height=130&section=header&text=ABOUT&fontSize=44&fontColor=58A6FF&animation=scaleIn&fontAlignY=38&desc=%E2%97%86%20identity%20%2F%20mindset%20%2F%20craft%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
+
+<br/>
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
@@ -57,38 +58,35 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## 🛠️ **Tech Stack**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: bounce 2s infinite;">
-  Tech Stack
-</span>
+<div align="center">
+  <img width="700" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,50:132238,100:0d1117&height=130&section=header&text=TECH%20STACK&fontSize=44&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=%E2%97%86%20languages%20%2F%20frontend%20%2F%20backend%20%2F%20tooling%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,rust,go&theme=dark&perline=5" alt="Languages" />
-
 <br/>
-<sub>Languages</sub>
+<sub><b>Languages</b></sub>
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma&theme=dark&perline=5" alt="Frontend" />
-
 <br/>
-<sub>Frontend</sub>
+<sub><b>Frontend</b></sub>
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,docker,postgres,redis,aws&theme=dark&perline=6" alt="Backend & Infrastructure" />
-
 <br/>
-<sub>Backend & Infrastructure</sub>
+<sub><b>Backend & Infrastructure</b></sub>
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,neovim,linux&theme=dark&perline=4" alt="Tooling" />
-
 <br/>
-<sub>Tooling & Workflow</sub>
+<sub><b>Tooling & Workflow</b></sub>
 
 </div>
 
@@ -98,20 +96,21 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## 📊 **GitHub Stats**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: pulse 1.5s infinite;">
-  GitHub Stats
-</span>
+<div align="center">
+  <img width="720" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10233a,100:0d1117&height=130&section=header&text=GITHUB%20STATS&fontSize=44&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=%E2%97%86%20activity%20%2F%20languages%20%2F%20consistency%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
 
-<div align="center" style="background: linear-gradient(145deg, #0d11170f, #58A6FF10); border: 1px solid #58A6FF20; border-radius: 20px; padding: 25px; margin: 20px 0; backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(88, 166, 255, 0.1);">
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bethalarinosh&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=bethalarinosh&show_icons=true&theme=github_dark&count_private=true&hide_border=false&border_color=58A6FF&border_radius=16&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethalarinosh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethalarinosh&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=58A6FF&border_radius=16&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=bethalarinosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=bethalarinosh&theme=github-dark-blue&hide_border=false&border_radius=16&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -121,10 +120,11 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## 🌐 **Contributions**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: float 3s ease-in-out infinite;">
-  Contributions
-</span>
+<div align="center">
+  <img width="720" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:12253c,100:0d1117&height=130&section=header&text=CONTRIBUTIONS&fontSize=44&fontColor=58A6FF&animation=blinking&fontAlignY=38&desc=%E2%97%86%20graph%20%2F%20motion%20%2F%20commit%20flow%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -142,10 +142,13 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## 🚧 **What I'm Working On**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: wiggle 2s infinite;">
-  Current Projects
-</span>
+<div align="center">
+  <img width="840" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:13263d,100:0d1117&height=130&section=header&text=WHAT%20I'M%20WORKING%20ON&fontSize=40&fontColor=58A6FF&animation=scaleIn&fontAlignY=38&desc=%E2%97%86%20current%20focus%20%2F%20active%20curiosity%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 | Area | Description |
 |---|---|
@@ -154,18 +157,7 @@ philosophy   : Solve the right problem before solving it well.
 | **Open Source** | Contributing to tooling projects around DX and developer workflows |
 | **UI Architecture** | Researching component system design and design token pipelines |
 
-<br/>
-
----
-
-<br/>
-
-## 💡 **Principles I Work By**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: rotate 4s linear infinite;">
-  Design Principles
-</span>
-
-
+</div>
 
 <br/>
 
@@ -173,10 +165,31 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-## 🤝 **Let's Connect**
-<span style="font-size: 2.5em; font-weight: bold; color: #58A6FF; display: inline-block; animation: heartbeat 1.8s infinite;">
-  Get In Touch
-</span>
+<div align="center">
+  <img width="800" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,50:12243a,100:0d1117&height=130&section=header&text=PRINCIPLES%20I%20WORK%20BY&fontSize=40&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=%E2%97%86%20clarity%20%2F%20velocity%20%2F%20maintainability%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
+
+<br/>
+
+```text
+Write for the next developer, not the compiler.
+Slow is smooth. Smooth is fast.
+Boring technology for infrastructure. Interesting ideas on top.
+Documentation is a first-class deliverable.
+A well-named variable is worth three comments.
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <img width="700" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:112238,100:0d1117&height=130&section=header&text=LET'S%20CONNECT&fontSize=44&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=%E2%97%86%20links%20%2F%20collabs%20%2F%20conversations%20%E2%97%86&descAlignY=74&descSize=18&descColor=8b949e"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -200,50 +213,4 @@ philosophy   : Solve the right problem before solving it well.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:131c2b,70:0f1923,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 5px #58A6FF, 0 0 10px #58A6FF, 0 0 15px #58A6FF; }
-  to { text-shadow: 0 0 10px #58A6FF, 0 0 20px #58A6FF, 0 0 30px #58A6FF; }
-}
-
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-10px); }
-  60% { transform: translateY(-5px); }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes wiggle {
-  0% { transform: rotate(0deg); }
-  25% { transform: rotate(2deg); }
-  50% { transform: rotate(0deg); }
-  75% { transform: rotate(-2deg); }
-  100% { transform: rotate(0deg); }
-}
-
-@keyframes rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-@keyframes heartbeat {
-  0% { transform: scale(1); }
-  14% { transform: scale(1.1); }
-  28% { transform: scale(1); }
-  42% { transform: scale(1.1); }
-  70% { transform: scale(1); }
-}
-</style>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:131c2b,70:0f1923,100:0d1117&height=130&section=footer&animation=fadeIn"/>
