@@ -1,5 +1,4 @@
 name: contribution-animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,24 +6,20 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=E52521&color_dots=#0d1117,#1a3a5c,#1e5799,#58A6FF,#FFD700
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=E52521&color_dots=#0d1117,#1a2744,#1e3a8a,#3b82f6,#facc15
-
+            dist/github-contribution-grid-mario.svg?color_snake=E52521&color_dots=#0d1117,#1a3a5c,#1e5799,#58A6FF,#FFD700
+            dist/github-contribution-grid-mario-dark.svg?palette=github-dark&color_snake=E52521&color_dots=#0d1117,#1a2744,#1e3a8a,#3b82f6,#facc15
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
