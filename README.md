@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f1923,70:131c2b,100:0d1117&height=240&section=header&text=BETHALA%20RINOSH&fontSize=66&fontColor=58A6FF&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20%C2%B7%20Systems%20Thinker&descAlignY=74&descSize=18&descColor=8b949e"/>
 
 </div>
-
+  
 <br/>
 
 <div align="center">
