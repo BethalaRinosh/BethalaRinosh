@@ -1,9 +1,8 @@
-name: Generate contribution snake
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    # Refresh twice a day.
-    - cron: "17 */12 * * *"
+    - cron: "23 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: contribution-snake
+  group: pacman-contribution-graph
   cancel-in-progress: true
 
 jobs:
@@ -23,15 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate light and dark contribution snakes
-        uses: Platane/snk@v3
+      - name: Generate Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: BethalaRinosh
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2320D9D2&color_dots=%23EBEDF0,%239BE9A8,%2340C463,%2330A14E,%2321602C
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2320D9D2&color_dots=%23161B2E,%23232D4D,%233B4D7A,%237C68D6,%23A78BFA
 
-      - name: Publish generated SVGs to output branch
+      - name: Publish graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
