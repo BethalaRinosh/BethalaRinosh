@@ -1,28 +1,41 @@
-name: contribution-animation
+name: Generate contribution snake
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Refresh twice a day.
+    - cron: "17 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/mario.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: BethalaRinosh
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=58A6FF&color_dots=#0d1117,#0f1923,#1a3a5c,#1e5799,#58A6FF
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=58A6FF&color_dots=#0d1117,#0f1923,#1a3a5c,#1e5799,#58A6FF
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-contribution-grid-snake.svg?color_snake=%2320D9D2&color_dots=%23EBEDF0,%239BE9A8,%2340C463,%2330A14E,%2321602C
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2320D9D2&color_dots=%23161B2E,%23232D4D,%233B4D7A,%237C68D6,%23A78BFA
+
+      - name: Publish generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
